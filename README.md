@@ -1,4 +1,4 @@
-HI, I'm Silver! My moscot is my Doberman Aurelius, he's a good boy.
+HI, I'm Silver! My moscot is my Doberman, Aurelius, he's a good boy.
 
 
 
