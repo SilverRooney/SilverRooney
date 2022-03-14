@@ -1,3 +1,5 @@
+HI, I'm Silver! My moscot is my Doberman Aurelius, he's a good boy.
+
 
 
  🔭 I’m currently a freelance, full stack, Web Developer, that is now Developing iOS apps with Swift.
