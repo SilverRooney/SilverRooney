@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**SilverRooney/SilverRooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 🔭 I’m currently a freelance, full stack, Web Developer, that is now Developing iOS apps with Swift.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💬 Ask me about why I would be an incredible asset to your Dev team and how I can help you!
+ 
+
+ ⚡ Fun fact: I love to travel, I am learning how to surf, and spin fire poi! One day I will spin fire at a bonfire on the beach, and there will be drums, dancing and howling at the moon.
+ 
+ 
+ 
+ 
+  📫 Connect with me on Twitter: https://twitter.com/silver_rooney
+
