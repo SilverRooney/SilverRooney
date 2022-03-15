@@ -14,8 +14,4 @@ HI, I'm Silver!
  
   📫 Connect with me on Twitter: https://twitter.com/silver_rooney
   
-  
-  
 
-
-![Screenshot (18)](https://user-images.githubusercontent.com/101233555/158301890-f9a76b9a-fe09-4f01-b899-8837777c89c8.png)
