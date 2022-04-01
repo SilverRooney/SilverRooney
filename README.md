@@ -12,5 +12,7 @@ HI, I'm Silver!
  
  
  
-  <p> 📫 Connect with me on Twitter: ------>   <a href="https://www.twitter.com/silver_rooney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
+ ## Connect with me!  :call_me_hand:
+<p align="left">
+<a href="https://www.twitter.com/silver_rooney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
