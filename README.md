@@ -4,7 +4,7 @@ HI, I'm Silver!
 
  🔭 I started out in front end web development in 2014, then learned fullstack through a bootcamp and did freelance. In 2021 I fell in love with iOS Development.  I am now Developing iOS apps with Swift.
 
- 💬 Ask me about why I would be an incredible asset to your Dev team!
+ 💬 Ask me anything! I am on Twitter.
  
 
  ⚡ Fun fact: I love to travel, I am learning how to surf, and spin fire poi! One day I will spin fire at a bonfire on the beach, and there will be drums, dancing and howling at the moon.
