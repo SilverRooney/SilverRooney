@@ -2,7 +2,8 @@ HI, I'm Silver!
 
 
 
- 🔭 I started out in front end web development in 2014, then learned fullstack through a bootcamp and did freelance. In 2021 I fell in love with iOS Development.  I am now Developing iOS apps with Swift.
+ 🔭 I started out in front end web development in 2014, then learned fullstack through a bootcamp and did freelance. 
+ In 2021 I fell in love with iOS Development.  I am now Developing iOS apps with Swift.
 
  💬 Ask me anything! I am on Twitter.
  
