@@ -1,4 +1,6 @@
-HI, I'm Silver!
+<a href="https://swift.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="36" height="36" alt="React" /></a>
+
+HI, I'm Silver!     
 
 
 
