@@ -5,7 +5,7 @@ HI, I'm Silver!
 
 
  🔭 I started out in front end web development in 2014, then went on to fullstack development using the MERN stack. 
- In 2021 I fell in love with iOS Development and switched my full attention completely to Swift. My experience in web development and using many different languages and frameworks, has helped me learn SwiftUI and UIKit quickly. I am excited to join an iOS dev team soon!
+ In 2021 I fell in love with iOS Development and switched my full attention completely to Swift. My experience in web development and using many different languages and frameworks, has helped me learn SwiftUI and UIKit quickly.
 
  💬 Ask me anything! I am on Twitter.
  
